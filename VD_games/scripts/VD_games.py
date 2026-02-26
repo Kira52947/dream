@@ -1,0 +1,12 @@
+from VD_games.cli import welcome_user
+
+
+def main():
+    print("VD-games")
+    welcome_user()
+
+
+if name == "__main__":
+    main()
+
+
